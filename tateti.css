@@ -1,0 +1,89 @@
+.btn {
+	width: 60px;
+	height: 70px;
+	margin-bottom: 5px;
+	padding: 0px;
+}
+
+#box {
+	margin-top: 100px;
+}
+
+#reset {
+	width: 100px;
+	margin-top: 20px;
+	color: red;
+	height: 30px;
+}
+
+#panel {
+	width: 180px;
+	margin-top: 20px;
+	color: yellow;
+	text-align: center;
+	height: 30px;
+}
+
+.score {
+	background-color: red;
+	width: 50px;
+	height: 80px;
+	box-sizing: border-box;
+	border: 2px solid;
+}
+
+.number {
+	font-family: "VT323", "Herculanum", Courier, monospace;
+	font-size: 50px;
+	color: yellow;
+}
+
+.title {
+	color: yellow;
+	font-family: Impact, "Haettenschweiler", "Arial Narrow Bold", sans-serif;
+	justify-content: center;
+	background-color: red;
+}
+
+.wallpaper {
+	background-image: url(img/Fondo.gif);
+	background-size: cover;
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background-repeat: repeat;
+}
+
+#result {
+	color: yellow;
+	font-family: "VT323", Impact, "Haettenschweiler", "Arial Narrow Bold",
+		sans-serif;
+	justify-content: center;
+	background-color: red;
+	box-sizing: border-box;
+	border: 2px solid black;
+	width: 120px;
+	height: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.text-center {
+	text-align: center !important;
+}
+
+.Character {
+	color: yellow;
+	font-family: "VT323", Impact, "Arial Narrow Bold", sans-serif;
+	background-color: red;
+	height: 50px;
+	width: 120px;
+	box-sizing: border-box;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.firm {
+	color: white;
+	background-color: black;
+}
